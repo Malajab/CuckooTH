@@ -62,9 +62,9 @@
 - كلمة السر: students
 
 ###  فتح ثلاثة نوافذ أوامر طرفية والكتابة كل أمر في طرفية مختلفة
-- cuck1
-- cuck2
-- cuck3
+- الامر الاول: cuck1
+- الامر الثاني: cuck2
+- الامر الثالث: cuck3
 
 <img align="right" width="500" height="300" src="https://user-images.githubusercontent.com/38037944/140656104-15b6ff03-b7ed-4b08-8f3a-3328dddaea28.png">
 <img align="right" width="500" height="300" src="https://user-images.githubusercontent.com/38037944/140656258-c3296e8c-15b4-45ac-b08f-c2955e00de4a.png">
