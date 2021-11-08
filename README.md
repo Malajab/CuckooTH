@@ -81,8 +81,8 @@
 <img align="right" width="500" height="300" src="https://user-images.githubusercontent.com/38037944/140656629-14e66235-cc4c-497f-b2db-09062a20a3aa.png">
 <img align="right" width="500" height="300" src="https://user-images.githubusercontent.com/38037944/140656677-4a4d5ee8-48e6-41c1-bcc6-48dbcff0c293.png">
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
-<h2 dir='rtl' align='right'>حلول لبعض المشاكل</h2>
 
+## مشاكل و حلول
 
 
 <table dir='rtl' align='right' border="1px solid black">
